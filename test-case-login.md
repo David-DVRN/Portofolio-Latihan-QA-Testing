@@ -1,7 +1,7 @@
 # 📋 Test Case — Fitur Login
 **Website:** [https://www.saucedemo.com](https://www.saucedemo.com)  
 **Module:** Authentication - Login  
-**Dibuat oleh:** QA Tester  
+**Dibuat oleh:** QA Tester - David Darmawan
 **Tanggal:** 2026-03-04
 
 ---
