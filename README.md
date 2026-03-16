@@ -71,6 +71,20 @@ portofolio-qa-testing/
 
 ---
 
+## 🤖 Automation Testing
+
+| Tools | Versi |
+|---|---|
+| Python | 3.12.1 |
+| Selenium | 4.41.0 |
+| Pytest | 9.0.2 |
+
+| Test File | Test Case | Pass | Fail |
+|---|---|---|---|
+| test_login.py | 5 | 5 | 0 |
+| test_cart.py | 3 | 3 | 0 |
+| **Total** | **8** | **8** | **0** |
+
 ## 📚 Roadmap Belajar Saya
 
 - [x] Teori dasar QA Testing (SDLC, STLC, Bug Life Cycle)
