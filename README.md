@@ -90,10 +90,10 @@ portofolio-qa-testing/
 - [x] Teori dasar QA Testing (SDLC, STLC, Bug Life Cycle)
 - [x] Membuat Test Case manual
 - [x] Membuat Bug Report profesional
-- [ ] Eksplorasi tools (Jira, Postman)
-- [ ] API Testing dengan Postman & Python
-- [ ] Web Automation dengan Selenium + Python
-- [ ] Framework Pytest
+- [x] Eksplorasi tools (Jira, Postman)
+- [x] API Testing dengan Postman & Python
+- [x] Web Automation dengan Selenium + Python
+- [x] Framework Pytest
 - [ ] Page Object Model (POM)
 - [ ] CI/CD dengan GitHub Actions
 
