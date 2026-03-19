@@ -27,7 +27,7 @@ Halo! Saya seorang **QA Tester** yang sedang dalam proses belajar dan membangun 
 | **Google Chrome** | Browser utama testing | ✅ Aktif digunakan |
 | **Jira** | Bug tracking & manajemen issue | 🔄 Sedang belajar |
 | **Postman** | API Testing | 🔄 Sedang belajar |
-| **Selenium + Python** | Web Automation Testing | 📅 Upcoming |
+| **Selenium + Python** | Web Automation Testing | 🔄 Sedang belajar |
 | **GitHub** | Version control & dokumentasi | ✅ Aktif digunakan |
 
 ---
